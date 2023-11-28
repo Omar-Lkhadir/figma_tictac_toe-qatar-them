@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.b{
+    background-image: url(../images/a1.png);
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-size: cover;
+    height: 35.2rem;
+    background-position: center;
+    min-height: 100vh;
+}
+.f{
+    background-image: url(../images/a1.png);
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-size: cover;
+    height: 35.2rem;
+    background-position: center;
+    min-height: 106vh;
+    
+    
+
+}
+.c{
+    background-image: url(../images/a1.png);
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-size: cover;
+    height: 35.2rem;
+    background-position: center;
+    min-height: 131vh;
+}
+.d{
+    background-image: url(../images/a11.png);
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-size: cover;
+    height: 35.2rem;
+    background-position: center;
+    min-height: 100vh;
+
+}
+.e{
+    background-image: url(../images/a17.png);
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-size: cover;
+    height: 35.2rem;
+    background-position: center;
+    min-height: 100vh;
+
+}
+.content{
+    background-image: url(../images/a19.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50rem;
+    min-height: 100vh;
+
+
+
+}
